@@ -1,0 +1,1 @@
+PUNCH,Diesel,10.5,20,AMT,37,5,Yes;NEXON,Diesel,15.5,23,Manual,44,5,Yes;HARRIER,Diesel,26.4,20,AMT,50,5,Yes;TIAGO,Petrol,8.2,19,Manual,60,5,yes;ALTROZ,Petrol,15,23.64,Manual,37,5,No;TIGOR,CNG,9.55,19.28,AMT,35,5,No;SAFARI,Diesel,27.34,14.5,AMT,50,7,Yes;
